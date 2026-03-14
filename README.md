@@ -1,4 +1,4 @@
-E-Commerce Sales Analysis Dashboard
+E-Commerce-sales-Dashboard
 
 This project analyzes the sales performance of an e-commerce company using Power BI.
 
